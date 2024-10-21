@@ -79,6 +79,9 @@ We are always happy to lend a helping hand
 
 All files within this repository are licensed under the MIT License unless explicitly stated otherwise.
 
+
+
+
 100% Open Source software.
 
 © 2023 [Calyptus] - See [LICENSE](https://opensource.org/license/mit/) for details.
